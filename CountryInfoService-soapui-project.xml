@@ -1463,7 +1463,7 @@ declare namespace ns1='http://www.oorsprong.org/websamples.countryinfo';
 	}
 
 	def sayHello(){
-		log.info "Hello"
+		log.info "Helloo"
 	}
 }
 
